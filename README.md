@@ -64,6 +64,13 @@ MultiPathNet：https://github.com/facebookresearch/multipathnet
 [2] SharpMask: Learning to Refine Object Segments. Pedro O. Pinheiro, Tsung-Yi Lin, Ronan Collobert, Piotr Dollàr (ECCV 2016)
 [3] MultiPathNet: A Multipath Network for Object Detection. Sergey Zagoruyko, Adam Lerer, Tsung-Yi Lin, Pedro O. Pinheiro, Sam Gross, Soumith Chintala, Piotr Dollár (BMVC 2016)
 
+https://blog.openai.com/generative-models/#contributions 模仿学习
+https://github.com/openai/imitation
+
+https://blog.csdn.net/xinbolai1993/article/details/78694457  十个生成模型(GANs)的最佳案例和原理
+
+https://blog.csdn.net/u013110060/article/details/78988962  CVPR2018 human action/motion prediction (人体姿势预测)
+
 
 
 
